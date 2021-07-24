@@ -1,0 +1,18 @@
+[21:53:08] alt:V Server 5.3 (release)
+[21:53:08] Starting alt:V Server on 0.0.0.0:7788
+[21:53:08] Loading resource chat
+[21:53:08] Loaded resource chat
+[21:53:08] Loading resource server
+[21:53:08] Started
+[21:53:08] Loaded resource server
+[21:53:08] Required server permissions:
+[21:53:08] Optional server permissions:
+[21:53:08] Starting HTTP server on 0.0.0.0:7788
+[21:53:08] Main thread started (ThreadId: 27184)
+[21:53:08] Colshape thread started (ThreadId: 39020)
+[21:53:08] EntityStreamer thread started (ThreadId: 40580)
+[21:53:08] Network thread started (ThreadId: 39588)
+[21:53:08] Console thread started (ThreadId: 17188)
+[21:53:08] Server started
+[21:53:11] Stopping resource server
+[21:53:11] Stopped

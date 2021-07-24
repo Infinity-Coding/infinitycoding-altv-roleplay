@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HJNFSxXLAJrPq/O2NxqdNAkhGgFP7aQyCHFj2cNSptM8tScxMtQbsjDVOhPwcIdp/SxvhufVk7pl2LgOsuTC0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicoe\\OneDrive\\Desktop\\infinitycoding-altv-roleplay\\backend\\Backend\\Backend\\Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicoe\\.nuget\\packages\\altv.net\\4.0.0\\altv.net.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

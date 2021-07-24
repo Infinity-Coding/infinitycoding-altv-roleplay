@@ -1,0 +1,13 @@
+C:\Users\nicoe\OneDrive\Desktop\infinitycoding-altv-roleplay\altv-server\resources\server\Backend.deps.json
+C:\Users\nicoe\OneDrive\Desktop\infinitycoding-altv-roleplay\altv-server\resources\server\Backend.dll
+C:\Users\nicoe\OneDrive\Desktop\infinitycoding-altv-roleplay\altv-server\resources\server\ref\Backend.dll
+C:\Users\nicoe\OneDrive\Desktop\infinitycoding-altv-roleplay\altv-server\resources\server\Backend.pdb
+C:\Users\nicoe\OneDrive\Desktop\infinitycoding-altv-roleplay\backend\Backend\Backend\obj\Debug\Backend.csproj.AssemblyReference.cache
+C:\Users\nicoe\OneDrive\Desktop\infinitycoding-altv-roleplay\backend\Backend\Backend\obj\Debug\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicoe\OneDrive\Desktop\infinitycoding-altv-roleplay\backend\Backend\Backend\obj\Debug\Backend.AssemblyInfoInputs.cache
+C:\Users\nicoe\OneDrive\Desktop\infinitycoding-altv-roleplay\backend\Backend\Backend\obj\Debug\Backend.AssemblyInfo.cs
+C:\Users\nicoe\OneDrive\Desktop\infinitycoding-altv-roleplay\backend\Backend\Backend\obj\Debug\Backend.csproj.CoreCompileInputs.cache
+C:\Users\nicoe\OneDrive\Desktop\infinitycoding-altv-roleplay\backend\Backend\Backend\obj\Debug\Backend.csproj.CopyComplete
+C:\Users\nicoe\OneDrive\Desktop\infinitycoding-altv-roleplay\backend\Backend\Backend\obj\Debug\Backend.dll
+C:\Users\nicoe\OneDrive\Desktop\infinitycoding-altv-roleplay\backend\Backend\Backend\obj\Debug\ref\Backend.dll
+C:\Users\nicoe\OneDrive\Desktop\infinitycoding-altv-roleplay\backend\Backend\Backend\obj\Debug\Backend.pdb
